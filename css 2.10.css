@@ -1,0 +1,17 @@
+body,html{
+margin:0%;
+}
+.float{
+border:15px solid;
+border-color:white;
+background-color:aquamarine;
+width:200px;
+height:100px;
+margin-top:10px;
+}
+.box{
+clear:float;
+border:8px solid;
+border-color:white;
+background-color:bisque;
+}
